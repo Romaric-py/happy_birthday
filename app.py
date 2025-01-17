@@ -23,7 +23,7 @@ st.markdown(
 
 # Ajouter une image festive
 st.image(
-    "https://unsplash.com/fr/photos/gateau-de-glacage-blanc-_-ZzWO4jlRE",
+    "photo-1529994476526-5a7f0737d5f1.avif",
     caption="Un gâteau rien que pour vous, Papa !",
 )
 
