@@ -23,7 +23,7 @@ st.markdown(
 
 # Ajouter une image festive
 st.image(
-    "photo-1529994476526-5a7f0737d5f1.avif",
+    "christopher-martyn-_-ZzWO4jlRE-unsplash.jpg",
     caption="Un gâteau rien que pour vous, Papa !",
 )
 
